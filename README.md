@@ -37,4 +37,5 @@ El proyecto está estructurado en torno a las siguientes entidades y operaciones
 
 1. Diógenes Quintero
 
-##Editado y adaptado por esta cuenta
+## Editado y adaptado por esta cuenta
+

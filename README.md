@@ -33,6 +33,8 @@ El proyecto está estructurado en torno a las siguientes entidades y operaciones
 - Password
 - Eliminar Huesped - Reserva
 
-## CREADO POR:
+## Creditos a:
 
 1. Diógenes Quintero
+
+##Editado y adaptado por esta cuenta
